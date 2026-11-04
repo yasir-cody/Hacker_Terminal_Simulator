@@ -1,4 +1,4 @@
-# Hacker_Terminal_Simulator
+# Hacker Terminal Simulator
 
 
 Learning the (while-loop) inside a (Function) by building a 'Hacker Terminal Simulator' program.
